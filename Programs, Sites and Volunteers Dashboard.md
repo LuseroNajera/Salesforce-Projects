@@ -1,10 +1,9 @@
-# Programs, Sites, Volunteers Dashboard
+# Programs, Sites, Volunteers Dashboard ⭐
 
 ## Table of Contents: 
-- [Process](Process)
+- Process
 - Reports Use Case/Reports
 - Dashboard 
-
 
 
 ## Process 
@@ -47,5 +46,28 @@ This report is important in keeping track of how long school sites have been a p
 ### Yearly Applicants Report: 
 This report is made up of data that tracks yearly applicants from the past two decades. Since there are two semesters in a school year, I used both Fall applicants and Spring applicants as columns and then created a formula to add these two columns as Total Applicants for the specified year. With this data we can track how many applicants we receive yearly and how many returns we receive each semester. We can use this data to understand what years their applicants were fewer and can draw conclusions as to what happened that specific semester/year and what needs to be changed. 
 <img width="400" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/cd37583d-d247-4ca9-8026-7d114bb8f1d8">
+
+
+## Dashboard
+![Final Project (3)](https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/dc517b9e-a7a5-4df5-9bab-0521f0f6611e)
+
+F23 Active Semesters 
+<img width="764" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/dfa4803c-eaa7-48eb-9105-80e63a5419ca">
+
+Sites & Programs
+<img width="776" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/d6fa1445-4d5d-475c-8a54-8c1583e89642">
+
+Volunteers Placed In Site
+<img width="522" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/a5466b77-bf6b-4841-a4e5-61f5b1017734">
+
+Head Mentors, Mentors, Actors
+<img width="502" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/df216bff-7edd-421b-90f3-44af9b69d8da">
+
+Yearly Volunteers
+<img width="764" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/461ce549-421a-466e-a7eb-e810ec1e0ae4">
+
+Volunteer Info
+<img width="797" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/2a0eb3f1-c0cc-4edd-ba86-d17db88299d3">
+
 
 
