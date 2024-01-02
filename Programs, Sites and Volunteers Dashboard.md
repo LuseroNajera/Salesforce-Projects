@@ -2,7 +2,7 @@
 
 ## Table of Contents: [Link Text](#section-id)
 - [Process](#process)
-- [Reports Use Case/Reports](#Reports Use Case and Reports)
+- [Use Case/Reports](#Use Case/Reports )
 - [Dashboard](#Dashboard)
 - [Conclusion](#Conclusion)
 
@@ -36,7 +36,7 @@ After creating all reports I believe I needed, then I created a dashboard.
      5. Do this for the rest of the reports and create a table. 
 
 
-## Reports Use Case and Reports 
+## Use Case/Reports 
 
 ### Sites & Programs Report: 
 The sites and programs are an important part of keeping track of the school sites we are currently providing programs for. This report is important because it contains data of the names of the schools, the names of the programs from the past few years. As well as their start and end date, which is important in keeping track of. This report also includes the number of volunteers that were on these sites. With this data I believe I can create charts that show all the school sites that participated in the most recent Fall 2023 program. I can also create a line chart that shows the number of volunteers throughout the past few years in these programs and school sites. 
