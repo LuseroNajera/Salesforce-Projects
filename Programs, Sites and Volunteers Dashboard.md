@@ -23,10 +23,15 @@ This includes inserting the data and data types.
          - If none or a few records were uploaded, then find where a error occured. 
 
 After creating all reports I believe I needed, then I created a dashboard. 
+
      1. Make sure in the reports I created that the chart toggle was on. 
+     
      2. Move around data types from columns to rows in the report section. 
+     
      3. Create a dashboard, and insert which report I want to make the charts on. 
+     
      4. Choose the appropriate chart that showcases the data perfectly. 
+     
      5. Do this for the rest of the reports and create a table. 
 
 
