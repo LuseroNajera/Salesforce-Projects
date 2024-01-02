@@ -12,9 +12,13 @@ To be able to do this I first need to know what information and data I want to u
 
 Now that I have an understanding of what I want to do, I then have to create reports. 
 This includes inserting the data and data types. 
+
      1.Creating custom object in salesforce playground. 
+     
      2.Creating data types in those custom objects. 
-     3.Using Data wizard to insert records into the custom object. 
+     
+     3.Using Data wizard to insert records into the custom object.
+     
      4.Once it says that all records have uploaded, then create reports. 
          - If none or a few records were uploaded, then find where a error occured. 
 
