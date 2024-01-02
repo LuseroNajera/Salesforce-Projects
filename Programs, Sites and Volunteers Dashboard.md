@@ -46,6 +46,6 @@ This report is important in keeping track of how long school sites have been a p
 
 ### Yearly Applicants Report: 
 This report is made up of data that tracks yearly applicants from the past two decades. Since there are two semesters in a school year, I used both Fall applicants and Spring applicants as columns and then created a formula to add these two columns as Total Applicants for the specified year. With this data we can track how many applicants we receive yearly and how many returns we receive each semester. We can use this data to understand what years their applicants were fewer and can draw conclusions as to what happened that specific semester/year and what needs to be changed. 
-<img width="600" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/cd37583d-d247-4ca9-8026-7d114bb8f1d8">
+<img width="400" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/cd37583d-d247-4ca9-8026-7d114bb8f1d8">
 
 
