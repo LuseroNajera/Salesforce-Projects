@@ -1,7 +1,7 @@
 # Programs, Sites, Volunteers Dashboard
 
 ## Table of Contents: 
-- Process
+- [Process](Process)
 - Reports Use Case/Reports
 - Dashboard 
 
