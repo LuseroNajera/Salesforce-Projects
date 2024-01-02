@@ -3,7 +3,8 @@
 ## Table of Contents: 
 - Process
 - Reports Use Case/Reports
-- Dashboard 
+- Dashboard
+- Summary
 
 
 ## Process 
@@ -20,7 +21,7 @@ This includes inserting the data and data types.
      3.Using Data wizard to insert records into the custom object.
      
      4.Once it says that all records have uploaded, then create reports. 
-         - If none or a few records were uploaded, then find where a error occured. 
+         - If none or a few records were uploaded, then find where an error occured. 
 
 After creating all reports I believe I needed, then I created a dashboard. 
 
@@ -60,23 +61,40 @@ This report is made up of data that tracks yearly applicants from the past two d
 ## Dashboard
 ![Final Project (3)](https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/dc517b9e-a7a5-4df5-9bab-0521f0f6611e)
 
-F23 Active Semesters 
+### F23 Active Semesters 
+
 <img width="764" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/dfa4803c-eaa7-48eb-9105-80e63a5419ca">
 
-Sites & Programs
+Importance:  This vertical bar chart shows us how many schools are currently using our program. As well as how many schools who we have had programs in the past, are not using our programs for the active semester. The 1 means Yes, 0 means No.  By knowing this we can know which sites(schools) are important to us currently, and if we should push for more schools to have our program. 
+
+### Sites & Programs
+
 <img width="776" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/d6fa1445-4d5d-475c-8a54-8c1583e89642">
 
-Volunteers Placed In Site
+Importance: This stacked bar chart shows us recent programs in the past few years and their program name. The amount of how how many volunteers was showed through the record count for those specific sites. With this we can understand how the past few semesters and years have either changed or stayed relatively the same. And with that know where change can be made if needed. 
+
+### Volunteers Placed In Site
+
 <img width="522" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/a5466b77-bf6b-4841-a4e5-61f5b1017734">
 
-Head Mentors, Mentors, Actors
+Importance: This donut chart shows us the record count of how many volunteers we have for the active semester and the amount placed in the database, as well as the amount that are not placed in the database. This is important because we can then understand how many volunteers need to be placed in the database, and make sure that is done as soon as possible. 
+
+### Head Mentors, Mentors, Actors
+
 <img width="502" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/df216bff-7edd-421b-90f3-44af9b69d8da">
 
-Yearly Volunteers
+Importance: This funnel chart shows us the volunteers and the categories they are in. Here we see the categories of head mentors, mentors, and actors and how many are in each category for the active semester. By knowing this we can see if we are having less head mentors, or less actors, and see if we should change that. 
+
+### Yearly Volunteers
+
 <img width="764" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/461ce549-421a-466e-a7eb-e810ec1e0ae4">
 
-Volunteer Info
+Importance: This line chart shows us the total volunteers for the past two decades. With this we can see if we are average in the amount of volunteers we have, or if we are in a downslope, we then understand the reasons and how to fix it. 
+
+### Volunteer Info
+
 <img width="797" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/2a0eb3f1-c0cc-4edd-ba86-d17db88299d3">
 
+Importance: This table shows all volunteer information including address, email, number of programs they have been in, and if they have their vaccination. With this information we can contact them, or even send holiday cards to thank them. 
 
-
+## Summary
