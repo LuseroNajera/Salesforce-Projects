@@ -1,5 +1,5 @@
 ## Salesforce-Projects 
-![image](https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/3c580242-a6ff-4510-a5de-33d31ddb6908)
+![image](https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/3c580242-a6ff-4510-a5de-33d31ddb6908 | width=100)
 
 
 
