@@ -1,6 +1,6 @@
 # Programs, Sites, Volunteers Dashboard ⭐
 
-## Table of Contents: [Link Text](#section-id)
+## Table of Contents: 
 - [Process](#process)
 - [Reports](#Reports)
 - [Dashboard](#Dashboard)
