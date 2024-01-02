@@ -93,7 +93,7 @@ Importance: This line chart shows us the total volunteers for the past two decad
 
 ### Volunteer Info
 
-<img width="797" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/2a0eb3f1-c0cc-4edd-ba86-d17db88299d3">
+<img width="764" alt="image" src="https://github.com/LuseroNajera/Salesforce-Projects/assets/155403528/2a0eb3f1-c0cc-4edd-ba86-d17db88299d3">
 
 Importance: This table shows all volunteer information including address, email, number of programs they have been in, and if they have their vaccination. With this information we can contact them, or even send holiday cards to thank them. 
 
