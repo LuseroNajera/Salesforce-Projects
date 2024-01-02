@@ -2,7 +2,7 @@
 
 ## Table of Contents: [Link Text](#section-id)
 - [Process](#process)
-- [Reports Use Case/Reports](#Reports Use Case and Reports)
+- [Reports Use Case/Reports](#Reports)
 - [Dashboard](#Dashboard)
 - [Conclusion](#Conclusion)
 
