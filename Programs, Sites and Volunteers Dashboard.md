@@ -2,9 +2,9 @@
 
 ## Table of Contents: [Link Text](#section-id)
 - [Process](#process)
-- [Reports Use Case/Reports]
-- [Dashboard]
-- [Conclusion]
+- [Reports Use Case/Reports](#Reports Use Case and Reports)
+- [Dashboard](#Dashboard)
+- [Conclusion](#Conclusion)
 
 
 ## Process 
@@ -99,4 +99,4 @@ Importance: This table shows all volunteer information including address, email,
 
 ## Conclusion
 
-The visualizations play a crucial role in providing actionable insights for the effective management of the program. Together, these visualizations provide a comprehensive understanding of program dynamics and enable informed decision-making for its continuous improvemen
+The visualizations play a crucial role in providing actionable insights for the effective management of the program.he Active Schools Bar Chart helps us see which schools are actively involved, guiding our efforts for collaboration. The Recent Programs Chart shows how volunteers are engaging over time, helping us adjust our strategies based on past successes. The Volunteer Database Chart ensures we have reliable volunteer information for effective communication. The Funnel Chart helps us balance volunteer roles, making sure our program runs smoothly. Lastly, the Line Chart over two decades gives us a historical view, helping us anticipate trends and plan for the future. Together, these visualizations provide a comprehensive understanding of program dynamics and enable informed decision-making for its continuous improvemen
